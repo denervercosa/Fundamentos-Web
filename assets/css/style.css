@@ -1,6 +1,12 @@
 /*
 Estilos da página index.html
 */
+
+.body1{
+background-color: rgb(143, 207, 223);
+}
+
+
 .center {
     text-align: center;
 }
@@ -36,8 +42,11 @@ Estilos da página index.html
 
 
 
-
-
 /*
 Estilos da página contato.html
 */
+
+.body2{
+    background-color: rgb(143, 207, 223);
+    }
+    
